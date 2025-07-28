@@ -1,2 +1,0 @@
-local player = game.Players.LocalPlayer
-player:Kick("privated bc of skid that stole the fonts :( ")
